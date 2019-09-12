@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/scottiepippen33/Demo%20Project%201/_apis/build/status/scottiepippen33.pipelines-java?branchName=master)](https://dev.azure.com/scottiepippen33/Demo%20Project%201/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
